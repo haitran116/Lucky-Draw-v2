@@ -1,0 +1,154 @@
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\Nguyen Le\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\EPPlus.Core.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\source\repos\luckydraw_v2\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CopyComplete
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\EPPlus.Core.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CopyComplete
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\Cu\Documents\msb_nguyenle\luckydraw_msb\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\EPPlus.Core.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CopyComplete
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CopyComplete
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\EPPlus.Core.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\------Hai-Tran------\Desktop\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.exe
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.deps.json
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.runtimeconfig.json
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\EPPlus.Core.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.AssemblyReference.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form1.resources
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Properties.Resources.resources
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.GenerateResource.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfoInputs.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.AssemblyInfo.cs
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CoreCompileInputs.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.csproj.CopyComplete
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\refint\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.pdb
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.genruntimeconfig.cache
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\ref\luckydraw_v2.dll
+C:\Users\Cu\Documents\lucky-draw-23-9-DF\lucky-draw-23-9-DF\luckydraw_df\luckydraw_v2\obj\Debug\net6.0-windows\luckydraw_v2.Form2.resources
